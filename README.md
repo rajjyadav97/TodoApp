@@ -1,3 +1,6 @@
+Live Demo 
+https://rajjyadav97.github.io/TodoApp/
+
 # TodoApp
 A simple and responsive Todo App built using HTML, CSS, and JavaScript.
 
